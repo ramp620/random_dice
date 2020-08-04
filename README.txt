@@ -1,0 +1,1 @@
+He is use Vailla JS and Dom Manipulation to make random dice website.
